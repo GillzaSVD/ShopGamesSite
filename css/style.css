@@ -1,0 +1,40 @@
+.btn-w{
+	width: 100%;
+	margin-bottom: 5px;
+}
+.btn-ww{
+	width: 100%;
+	margin-bottom: 5px;
+}
+.btn{
+	width: 100%;
+}
+.bg-menu{
+	background-color: #f0f0f0;
+}
+.btn-margin{
+	margin-left: -1%;
+}
+@media (max-width: 992px) {
+.btn-responsive {
+	width:100px;
+	margin-top: 5px;
+}
+.btn-w{
+	margin-left: -5px;
+}
+}
+
+@media (min-width: 993px){
+.btn-responsive {
+width: 100px;
+	margin-top: 5px;
+}
+.btn-w{
+	width: 200px;
+	margin-left: 5px;
+}
+}
+.mg-btm{
+	margin-bottom: 10px;
+}
